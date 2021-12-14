@@ -22,9 +22,10 @@ You will have initially 8 stones to place on board (one in each turn).
 * Player which make opponent player run out of stones win.
 
 
-For query/issues contact: harshitforever@gmail.com
+### Installation:- 
+download and unzip Trifit.zip file. 
+Open in android studio.
 
+Project developed for artificial intelligence course during Btech in computer engineering.
 
-
-
- or open github issue on https://github.com/harshitNanad/Trifit-2-player-game-using-AI
+For query/issues contact or open github issue:nandharsht@gmail.com
